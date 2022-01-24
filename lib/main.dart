@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
       ),
-      home: const HomeView(title: 'Flutter : Increase & Decrease'),
+      home: const HomeView(title: 'Flutter : Playing App'),
     );
   }
 }
